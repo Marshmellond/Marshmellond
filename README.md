@@ -1,7 +1,7 @@
 Marshmellond
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'm+Marshmellond)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&duration=5000&pause=1000&center=true&width=800&lines=Hello!+I'm+Skv)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marshmellond&theme=tokyo-night)
 
