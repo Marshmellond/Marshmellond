@@ -65,11 +65,11 @@
 
 ✨ **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Java命名规范](https://denox.cc/?p=1758201655819)
-- [Java学习笔记](https://denox.cc/?p=1758096318335)
-- [张家界学院校园网一键登录](https://denox.cc/?p=1757472697805)
 - [flex布局笔记](https://denox.cc/?p=1718327040636)
 - [MySQL速查](https://denox.cc/?p=1713084649066)
+- [命令速查](https://denox.cc/?p=1712803331415)
+- [爬虫笔记速查](https://denox.cc/?p=1712803424045)
+- [Arch 安装指南](https://denox.cc/?p=1712418214206)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📧 Contact
