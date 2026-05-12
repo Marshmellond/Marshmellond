@@ -1,14 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&duration=5000&pause=1000&center=true&width=800&lines=Hello!+I'm+Skv)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marshmellond/Marshmellond/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marshmellond/Marshmellond/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Marshmellond/Marshmellond/output/github-contribution-grid-snake.svg">
-</picture>
-
 ## 🚀 Tech Stack
 
-🎨 **Frontend**  
+🎨 **Frontend**
+
 <p>
 <img src="https://img.shields.io/badge/Vue3-4FC08D?logo=vuedotjs&logoColor=white" alt="Vue3">
 <img src="https://img.shields.io/badge/UniApp-41B883?logo=vue.js&logoColor=white" alt="UniApp">
@@ -18,7 +13,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-⚙️ **Backend**  
+⚙️ **Backend**
+
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
@@ -29,7 +25,8 @@
 <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask">
 </p>
 
-🗄️ **Database**  
+🗄️ **Database**
+
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis">
@@ -38,7 +35,8 @@
 <img src="https://img.shields.io/badge/Apache_Hive-F88900?logo=apachehive&logoColor=white" alt="Hive">
 </p>
 
-🔥 **Big Data & Middleware**  
+🔥 **Big Data & Middleware**
+
 <p>
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white" alt="Spark">
 <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?logo=apachehadoop&logoColor=black" alt="Hadoop">
@@ -47,7 +45,8 @@
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" alt="RabbitMQ">
 </p>
 
-🔧 **Tools & IDE**  
+🔧 **Tools & IDE**
+
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/JetBrains-000000?logo=intellijidea&logoColor=white" alt="JetBrains">
@@ -56,21 +55,10 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
-![GitHub 3D Contribution](profile-3d-contrib/profile-south-season-animate.svg)
-
 ## 📝 Blog
 
 [![Blog](https://img.shields.io/badge/Blog-denox.cc-2962FF?style=flat-square&logo=halo&logoColor=white)](https://denox.cc)
 [![RSS](https://img.shields.io/badge/RSS-Subscribe-FF6600?style=flat-square&logo=rss&logoColor=white)](https://denox.cc/rss.xml)
-
-✨ **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [flex布局笔记](https://denox.cc/?p=1718327040636)
-- [MySQL速查](https://denox.cc/?p=1713084649066)
-- [命令速查](https://denox.cc/?p=1712803331415)
-- [爬虫笔记速查](https://denox.cc/?p=1712803424045)
-- [Arch 安装指南](https://denox.cc/?p=1712418214206)
-<!-- BLOG-POST-LIST:END -->
 
 ## 📧 Contact
 
