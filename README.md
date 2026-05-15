@@ -1,4 +1,23 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&duration=5000&pause=1000&center=true&width=800&lines=Hello!+I'm+Skv)
+<h1 align="center">Hi 👋, I'm Skv</h1>
+<p align="center">
+  <em>A Full-Stack Developer passionate about AI & Data Engineering</em>
+</p>
+<p align="center">
+  <a href="https://github.com/Marshmellond">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:3549684852@qq.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://denox.cc">
+    <img src="https://img.shields.io/badge/Blog-denox.cc-2962FF?style=for-the-badge&logo=halo&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="https://denox.cc/rss.xml">
+    <img src="https://img.shields.io/badge/RSS-Subscribe-FF6600?style=for-the-badge&logo=rss&logoColor=white" alt="RSS"/>
+  </a>
+</p>
+
+---
 
 ## 🚀 Tech Stack
 
@@ -36,19 +55,19 @@
 <img src="https://img.shields.io/badge/Agent-8A2BE2?logo=openai&logoColor=white" alt="Agent">
 <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" alt="Ollama">
 <img src="https://img.shields.io/badge/Milvus-00A1EA?logo=milvus&logoColor=white" alt="Milvus">
-<img src="https://img.shields.io/badge/Langfuse-7B2FBE?logo=data:image/svg+xml;base64,&logoColor=white" alt="Langfuse">
+<img src="https://img.shields.io/badge/Langfuse-7B2FBE?logoColor=white" alt="Langfuse">
 </p>
 
 📊 **Data Engineering**
 
 <p>
-<img src="https://img.shields.io/badge/数据采集-4CAF50?logo=data:image/svg+xml;base64,&logoColor=white" alt="数据采集">
-<img src="https://img.shields.io/badge/数据清洗-2196F3?logo=data:image/svg+xml;base64,&logoColor=white" alt="数据清洗">
-<img src="https://img.shields.io/badge/数据分析-FF9800?logo=data:image/svg+xml;base64,&logoColor=white" alt="数据分析">
-<img src="https://img.shields.io/badge/数据可视化-9C27B0?logo=data:image/svg+xml;base64,&logoColor=white" alt="数据可视化">
+<img src="https://img.shields.io/badge/数据采集-4CAF50?logoColor=white" alt="数据采集">
+<img src="https://img.shields.io/badge/数据清洗-2196F3?logoColor=white" alt="数据清洗">
+<img src="https://img.shields.io/badge/数据分析-FF9800?logoColor=white" alt="数据分析">
+<img src="https://img.shields.io/badge/数据可视化-9C27B0?logoColor=white" alt="数据可视化">
 </p>
 
-� **DevOps**
+🚀 **DevOps**
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
@@ -58,16 +77,13 @@
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" alt="RabbitMQ">
 </p>
 
-## 📝 Blog
+---
 
-[![Blog](https://img.shields.io/badge/Blog-denox.cc-2962FF?style=flat-square&logo=halo&logoColor=white)](https://denox.cc)
-[![RSS](https://img.shields.io/badge/RSS-Subscribe-FF6600?style=flat-square&logo=rss&logoColor=white)](https://denox.cc/rss.xml)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Marshmellond&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies"/>
+</p>
 
-## 📧 Contact
-
-<a href="mailto:3549684852@qq.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Marshmellond">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marshmellond&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marshmellond&theme=onedark&hide_border=true" alt="GitHub Streak"/>
+</p>
