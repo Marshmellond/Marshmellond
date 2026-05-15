@@ -76,10 +76,3 @@
 <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" alt="Nginx">
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" alt="RabbitMQ">
 </p>
-
----
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Marshmellond&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Marshmellond&theme=onedark&hide_border=true" alt="GitHub Streak"/>
-</p>
