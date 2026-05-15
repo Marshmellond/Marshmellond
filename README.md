@@ -34,7 +34,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Vue3-4FC08D?logo=vuedotjs&logoColor=white" alt="Vue3">
+<img src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white" alt="Vue">
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white" alt="Astro">
 </p>
@@ -80,10 +80,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marshmellond&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marshmellond&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marshmellond&theme=onedark&hide_border=true" alt="GitHub Streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Marshmellond&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Marshmellond&theme=onedark&hide_border=true" alt="GitHub Streak"/>
 </p>
