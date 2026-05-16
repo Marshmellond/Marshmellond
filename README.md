@@ -61,10 +61,9 @@
 📊 **Data Engineering**
 
 <p>
-<img src="https://img.shields.io/badge/数据采集-4CAF50?logoColor=white" alt="数据采集">
-<img src="https://img.shields.io/badge/数据清洗-2196F3?logoColor=white" alt="数据清洗">
-<img src="https://img.shields.io/badge/数据分析-FF9800?logoColor=white" alt="数据分析">
-<img src="https://img.shields.io/badge/数据可视化-9C27B0?logoColor=white" alt="数据可视化">
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white" alt="Spark">
 </p>
 
 🚀 **DevOps**
