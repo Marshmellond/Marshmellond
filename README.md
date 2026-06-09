@@ -24,6 +24,7 @@
 🎨 **Frontend**
 
 <p>
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white" alt="Vue">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
